@@ -22,7 +22,9 @@ This directory contains the electrical resistivity tomography (ERT) raw data col
 | Y6 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 3rd part of roll along |
 | Y7 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 4rd part of roll along |
 
-Lines L1-L10 where measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration, Line Y1-Y7 with a DD and a We configuration.
+Lines L1-L10 were measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration, 
+
+Line Y1-Y7 were measured with a DD and a We configuration. Lines Y1-Y3 and Y4-Y7 were carried out as roll-along profiles, respectively, with overlaps of 24 electrodes.
 
 Data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). Here, we also include the exported *.txt* files.
 
