@@ -1,21 +1,27 @@
-# Electrical resistivity tomography (ERT) measurements 2018
+# Electrical resistivity tomography (ERT) measurements 2017
 
-This directory contains the electrical resistivity tomography (ERT) raw data 
+This directory contains the electrical resistivity tomography (ERT) raw data collected at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8) during September 2017.
 
-ERT and time-domain induced polarization (TDIP) data was collected with a Syscal Pro Switch-48 manufactured by Iris Instruments. Note that TDIP data was not processed and analysed in the above manuscript. Here, we include it for the sake of completeness.
+| Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation | Remark |
+| --- | --- | --- | --- | --- | --- |
+| L1 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | Drilling XOC17-I @ 105 m along line |
+| L2 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
+| L3 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
+| L4 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
+| L5 | 09/06/2017 | 48 (3 m) | 141 m | NW > SE | |
+| L6 | 09/08/2017 | 48 (3 m) | 141 m | NW > SE | |
+| L7 | 09/08/2017 | 48 (3 m) | 141 m | NW > SE | |
+| L8 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
+| L9 | 09/06/2017 | 40 (5 m) | 115 m | SW > NE | |
+| L10 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
 
-| Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation |
-| --- | --- | --- | --- | --- |
-| Xoch1 | 06/21/2016 | 48 (5 m) | 235 m | SE > NW |
-| Xoch2 | 06/21/2016 | 48 (5 m) | 235 m | SW > NE |
-
-Both lines where measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration. All lines were measured in the induced polarization (IP) mode, i.e., raw data files also include chargeability data. 
+All lines where measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration.
 
 Data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). Here, we also include the exported *.txt* files.
 
 Please note that for practical reasons, the electrode spacing was set to 1 m during the acquisition. Thus, during the processing, geometric factors (and apparent resistivities) need to be recomputed employing the actual electrode spacings given in the above table.
 
-The study area is located right next to the deep groundwater well [Santa Catarina 3](https://goo.gl/maps/Q2ooHxkMeXRhmgLB8). The exact positions (datum: WGS84) of the first and the last electrodes of each ERT line are listed in the file *ERT2016_positions.txt*. The positions of the infinite electrodes of the PD measurements are included, too. For convenience, we also include a GoogleEarth *.kml* file containing lines and electrode positions. 
+The study area is located right next to the deep groundwater well [Santa Catarina 3](https://goo.gl/maps/Q2ooHxkMeXRhmgLB8). The exact positions (datum: WGS84) of the first and the last electrodes of each ERT line are listed in the file *ERT2017_positions.txt*. The positions of the infinite electrodes of the PD measurements are included, too. For convenience, we also include a GoogleEarth *.kml* file containing lines and electrode positions. 
 
 None of the lines includes significant topographical variations.
 
