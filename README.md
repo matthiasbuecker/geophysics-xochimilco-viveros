@@ -9,7 +9,7 @@ Bücker, M., Lozano-Garcia. S., Ortega-Guerrero, B., Caballero-Miranda, M., Pér
 
 If you find our data useful in your own research, please mention this data set and/or the manuscript.
 
-# Overview
+## Overview
 
 The following table summarizes the measurements and data provided in this repository. Individual data sets and more detailed information can be found in the corresponding subfolders.
 
@@ -18,3 +18,10 @@ The following table summarizes the measurements and data provided in this reposi
 | 01_ERT_2017 | Electrical resistivity tomography (ERT) | 10/2018  | 2 lines |
 | 02_ERT_2018 | Electrical resistivity tomography (ERT) | 09/2018  | 12 lines |
 | 03_TEM_2018 | Time-domain induced polarization (TDIP) | 09/2018 | 13 soundings |
+
+## License information
+© 2020 the authors.
+
+This work is licensed under CC-BY version 4.0.
+
+Visit https://creativecommons.org/licenses/by/4.0 or see the LICENSE file for more information.
