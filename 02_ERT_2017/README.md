@@ -1,9 +1,10 @@
 # Electrical resistivity tomography (ERT) measurements 2017
 
-This directory contains the electrical resistivity tomography (ERT) raw data collected at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8) during September 2017.
+This directory contains the electrical resistivity tomography (ERT) raw data collected at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8) during September 2017. The following table lists the available ERT lines. 
 
 | Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation | Remark |
 | --- | --- | --- | --- | --- | --- |
+| Shallow survey |  |  |  |  |  |
 | L1 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | Drilling XOC17-I @ 105 m along line |
 | L2 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
 | L3 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
@@ -14,8 +15,10 @@ This directory contains the electrical resistivity tomography (ERT) raw data col
 | L8 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
 | L9 | 09/06/2017 | 40 (5 m) | 115 m | SW > NE | |
 | L10 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
+| Deep survey |  |  |  |  |  |
+| Y1 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
 
-All lines where measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration.
+Lines L1-L10 where measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration, Line Y1-Y7 with a DD and a We configuration.
 
 Data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). Here, we also include the exported *.txt* files.
 
