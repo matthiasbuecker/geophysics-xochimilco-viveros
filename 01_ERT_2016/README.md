@@ -25,8 +25,8 @@ None of the lines includes significant topographical variations.
 
 ## Financial support
 
-Financial support for the data acquisition was provided by the UNAM (DGAPA-PAPIIT-IN107416-2:  Pa-leoambientes  del  Pleistoceno  tardío  en  la  cuenca  de  Xochimilco").  Matthias  Bücker’s  participation in this study was partly funded by a scholarship  awarded  by  the  TU-Wien.
+Financial support for the data acquisition was provided by the UNAM (DGAPA-PAPIIT-IN107416-2: Paleoambientes del Pleistoceno tardío en la cuenca de Xochimilco"). Matthias Bücker’s participation in this study was partly funded by a scholarship awarded  by the TU-Wien.
 
 ## Acknowledgements
 
-We  thank  Sergio Rodríguez Elizarrarás from the Instituto de Geología  (IGL)  of   the  UNAM,  who  kindly  provided  the  Syscal  Pro  Switch  measuring  system.  Special  thanks  to  Elena  Centeno  (IGL)  and  the  staff from Instituto de Geología and Instituto de Geofísica,  UNAM  for  their  support. Rafael Cossío assisted during the geoelectrical field work in Xochimilco. We acknowledge the personnel of the  Viveros de Netzahualcóyotl in Xochimilco without whose cooperation the realization of the field survey would not have been possible.
+We thank Sergio Rodríguez Elizarrarás from the Instituto de Geología (IGL) of the UNAM, who kindly provided the Syscal Pro Switch measuring system. Special thanks to Elena Centeno (IGL) and the staff from Instituto de Geología and Instituto de Geofísica, UNAM for their support. Rafael Cossío assisted during the geoelectrical field work in Xochimilco. We acknowledge the personnel of the Viveros de Netzahualcóyotl in Xochimilco without whose cooperation the realization of the field survey would not have been possible.
