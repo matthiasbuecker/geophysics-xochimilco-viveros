@@ -4,6 +4,8 @@ This directory contains the electrical resistivity tomography (ERT) raw data ana
 
 Bücker, M., Lozano-Garcia. S., Ortega-Guerrero, B., Caballero-Miranda, M., Pérez, L., Caballero, L., Pita de la Paz, C., Sánchez-Galindo, A., Jesús Villegas, F., Flores Orozco, A., Brown, E., Werne, J., Valero Garcés, B., Schwalb, A., Kemna, A., Sánchez-Alvaro, E., Launizar-Martínez, N., Valverde-Placencia, A., Garay-Jiménez, F. (2017). Geoelectrical and Electromagnetic Methods Applied to Paleolimnological Studies: Two Examples from Desiccated Lakes in the Basin of Mexico. Boletín de la Sociedad Geológica Mexicana, 69(2), 279-298, http://dx.doi.org/10.18268/bsgm2017v69n2a1.
 
+The study area is located right next to the deep groundwater well [Santa Catarina 3](https://goo.gl/maps/Q2ooHxkMeXRhmgLB8).
+
 ## Overview
 
 ERT and time-domain induced polarization (TDIP) data was collected with a Syscal Pro Switch-48 manufactured by Iris Instruments. Note that TDIP data was not processed and analysed in the above manuscript. Here, we include it for the sake of completeness.
