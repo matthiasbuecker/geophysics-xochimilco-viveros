@@ -9,8 +9,8 @@ Bücker, M., Lozano-Garcia. S., Ortega-Guerrero, B., Caballero-Miranda, M., Pér
 
 | Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation |
 | --- | --- | --- | --- | --- |
-| Xoch1 | 06/21/2016 | 48 (5 m) | 235 m | SE -> NW |
-| Xoch2 | 06/21/2016 | 48 (5 m) | 235 m | SW -> NE |
+| Xoch1 | 06/21/2016 | 48 (5 m) | 235 m | SE > NW |
+| Xoch2 | 06/21/2016 | 48 (5 m) | 235 m | SW > NE |
 
 ## Setup and data acquisition
 
