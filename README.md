@@ -1,7 +1,7 @@
 ## UNDER CONSTRUCTION
 ## Data set | Geoelectrical and transient electromagnetic surveys at Viveros de Netzahualcóyotl in Xochimilco, Mexico City, Mexico
 
-This repository contains geophysical raw data collected during two field campaigns in 2016 and 2018 at Viveros de Netzahualcóyotl in Xochimilco, Mexico City, Mexico. 
+This repository contains geophysical raw data collected during two field campaigns in 2016 and 2018 at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/fCGGyZfWZMbchGjs7), Mexico City, Mexico. 
 
 The data set includes the raw data analysed for the second case study of the manuscript
 
@@ -18,10 +18,6 @@ The following table summarizes the measurements and data provided in this reposi
 | 01_ERT_2016 | Electrical resistivity tomography (ERT) | 04/2016  | 2 lines |
 | 02_ERT_2018 | Electrical resistivity tomography (ERT) | 09/2018  | 12 lines |
 | 03_TEM_2018 | Transient electromangetics (TEM) | 09/2018 | 13 soundings |
-
-## Location
-
-![I Believe I Can Fly](//player.vimeo.com/video/31240369?color=ffffff)
 
 ## License information
 © 2016-2020 the authors.
