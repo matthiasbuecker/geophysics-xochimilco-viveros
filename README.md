@@ -1,7 +1,7 @@
 ## UNDER CONSTRUCTION
 ## Data set | Geoelectrical and transient electromagnetic surveys at the Viveros de Netzahualcóyotl in Xochimilco, Mexico City, Mexico
 
-This repository contains geophysical raw data collected at the Viveros de Netzahualcóyotl in Xochimilco, Mexico City, Mexico. 
+This repository contains geophysical raw data collected during two field campaigns in 2016 and 2018 at the Viveros de Netzahualcóyotl in Xochimilco, Mexico City, Mexico. 
 
 The data set includes the raw data analysed for the second case study of the manuscript
 
