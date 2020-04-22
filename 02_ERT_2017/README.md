@@ -1,10 +1,9 @@
 # Electrical resistivity tomography (ERT) measurements 2017
 
-This directory contains the electrical resistivity tomography (ERT) raw data collected at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8) during September 2017. The following table lists the available ERT lines. 
+This directory contains the electrical resistivity tomography (ERT) raw data collected at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8) during September 2017. The following table lists the available ERT lines, which are grouped into a shallow survey (L1-L10) and a deep survey (Y1-Y7).
 
 | Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation | Remark |
 | --- | --- | --- | --- | --- | --- |
-| Shallow |  |  |  |  |  |
 | L1 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | Drilling XOC17-I @ 105 m along line |
 | L2 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
 | L3 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
@@ -12,11 +11,12 @@ This directory contains the electrical resistivity tomography (ERT) raw data col
 | L5 | 09/06/2017 | 48 (3 m) | 141 m | NW > SE | |
 | L6 | 09/07/2017 | 48 (3 m) | 141 m | NW > SE | |
 | L7 | 09/07/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L8 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
-| L9 | 09/06/2017 | 40 (5 m) | 115 m | SW > NE | |
-| L10 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
-| Deep |  |  |  |  |  |
-| Y1 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
+| L8 | 09/06/2017 | 41 (5 m) | 200 m | SW > NE | |
+| L9 | 09/06/2017 | 40 (5 m) | 195 m | SW > NE | |
+| L10 | 09/06/2017 | 41 (5 m) | 200 m | SW > NE | |
+| Y1 | 09/06/2017 | 48 (10 m) | 470 m | NW > SE | 1st part of roll along |
+| Y2 | 09/06/2017 | 48 (10 m) | 470 m | NW > SE | 2nd part of roll along |
+| Y3 | 09/06/2017 | 48 (10 m) | 470 m | NW > SE | 3rd part of roll along |
 
 Lines L1-L10 where measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration, Line Y1-Y7 with a DD and a We configuration.
 
