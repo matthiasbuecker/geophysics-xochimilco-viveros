@@ -15,12 +15,12 @@ The following table summarizes the measurements and data provided in this reposi
 
 | Directory | Method | Month/Year of acquisition | Quantity |
 | --- | --- | --- | --- |
-| 01_ERT_2017 | Electrical resistivity tomography (ERT) | 10/2018  | 2 lines |
+| 01_ERT_2016 | Electrical resistivity tomography (ERT) | 04/2016  | 2 lines |
 | 02_ERT_2018 | Electrical resistivity tomography (ERT) | 09/2018  | 12 lines |
 | 03_TEM_2018 | Time-domain induced polarization (TDIP) | 09/2018 | 13 soundings |
 
 ## License information
-© 2020 the authors.
+© 2016-2020 the authors.
 
 This work is licensed under CC-BY version 4.0.
 
