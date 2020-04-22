@@ -19,7 +19,7 @@ Data is provided as binary files *.bin*, which can be read, processed and export
 
 Please note that for practical reasons, the electrode spacing was set to 1 m during the acquisition. Thus, during the processing, geometric factors (and apparent resistivities) need to be recomputed employing the actual electrode spacings given in the above table.
 
-Positions (datum: WGS84) of the first and the last electrodes of each ERT line are listed in the file *ERT2016_positions.txt*. The positions of the infinite electrodes of the PD measurements are included, too. For convenience, we also include a GoogleEarth *.kmz* file containing lines and electrode positions.
+Positions (datum: WGS84) of the first and the last electrodes of each ERT line are listed in the file *ERT2016_positions.txt*. The positions of the infinite electrodes of the PD measurements are included, too. For convenience, we also include a GoogleEarth *.kml* file containing lines and electrode positions.
 
 None of the lines includes significant topographical variations.
 
