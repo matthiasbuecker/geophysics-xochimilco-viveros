@@ -14,9 +14,13 @@ This directory contains the electrical resistivity tomography (ERT) raw data col
 | L8 | 09/06/2017 | 41 (5 m) | 200 m | SW > NE | |
 | L9 | 09/06/2017 | 40 (5 m) | 195 m | SW > NE | |
 | L10 | 09/06/2017 | 41 (5 m) | 200 m | SW > NE | |
-| Y1 | 09/06/2017 | 48 (10 m) | 470 m | NW > SE | 1st part of roll along |
-| Y2 | 09/06/2017 | 48 (10 m) | 470 m | NW > SE | 2nd part of roll along |
-| Y3 | 09/06/2017 | 48 (10 m) | 470 m | NW > SE | 3rd part of roll along |
+| Y1 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 1st part of roll along |
+| Y2 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 2nd part of roll along |
+| Y3 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 3rd part of roll along |
+| Y4 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 1st part of roll along |
+| Y5 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 2nd part of roll along |
+| Y6 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 3rd part of roll along |
+| Y7 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 4rd part of roll along |
 
 Lines L1-L10 where measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration, Line Y1-Y7 with a DD and a We configuration.
 
