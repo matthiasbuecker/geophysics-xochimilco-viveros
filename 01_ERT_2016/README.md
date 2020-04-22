@@ -6,17 +6,22 @@ Bücker, M., Lozano-Garcia. S., Ortega-Guerrero, B., Caballero-Miranda, M., Pér
 
 ## Overview
 
+ERT and time-domain induced polarization (TDIP) data was collected with a Syscal Pro Switch-48 manufactured by Iris Instruments.
 
 | Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation |
 | --- | --- | --- | --- | --- |
 | Xoch1 | 06/21/2016 | 48 (5 m) | 235 m | SE > NW |
 | Xoch2 | 06/21/2016 | 48 (5 m) | 235 m | SW > NE |
 
-## Setup and data acquisition
+Both lines where measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration. All lines were measured in the induced polarization (IP) mode, i.e., raw data files also include chargeability data. 
 
-Profile locations and orientations.
+Data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). Here, we also include the exported *.txt* files.
 
-Measuring device and electrode configurations.
+Please note that for practical reasons, the electrode spacing was set to 1 m during the acquisition. Thus, during the processing, geometric factors (and apparent resistivities) need to be recomputed employing the actual electrode spacings given in the above table.
+
+Positions (datum: WGS84) of the first and the last electrodes of each ERT line are listed in the file *ERT2016_positions.txt*. The positions of the infinite electrodes of the PD measurements are included, too.
+
+None of the lines includes significant topographical variations.
 
 ## Acknowledgements
 
