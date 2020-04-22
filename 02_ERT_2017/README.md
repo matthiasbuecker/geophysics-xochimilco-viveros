@@ -9,8 +9,8 @@ This directory contains the electrical resistivity tomography (ERT) raw data col
 | L3 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
 | L4 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
 | L5 | 09/06/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L6 | 09/08/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L7 | 09/08/2017 | 48 (3 m) | 141 m | NW > SE | |
+| L6 | 09/07/2017 | 48 (3 m) | 141 m | NW > SE | |
+| L7 | 09/07/2017 | 48 (3 m) | 141 m | NW > SE | |
 | L8 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
 | L9 | 09/06/2017 | 40 (5 m) | 115 m | SW > NE | |
 | L10 | 09/06/2017 | 41 (5 m) | 120 m | SW > NE | |
