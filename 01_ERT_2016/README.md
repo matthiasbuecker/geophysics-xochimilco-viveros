@@ -7,10 +7,10 @@ Bücker, M., Lozano-Garcia. S., Ortega-Guerrero, B., Caballero-Miranda, M., Pér
 ## Overview
 
 
-| Acquisition date | Line ID | Electrodes (spacing) | Total length | Remarks |
+| Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation |
 | --- | --- | --- | --- | --- |
-| Xoch1 | Sub-bottom profiler (SBP) | 10/2018  | 62 lines | |
-| Xoch2 | Transient electromagnetics (TEM) | 10/2018  | 96 soundings | |
+| Xoch1 | 06/21/2016 | 48 (5 m) | 235 m | SE -> NW |
+| Xoch2 | 06/21/2016 | 48 (5 m) | 235 m | SW -> NE |
 
 ## Setup and data acquisition
 
