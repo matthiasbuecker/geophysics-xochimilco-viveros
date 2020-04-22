@@ -6,7 +6,7 @@ Bücker, M., Lozano-Garcia. S., Ortega-Guerrero, B., Caballero-Miranda, M., Pér
 
 ## Overview
 
-ERT and time-domain induced polarization (TDIP) data was collected with a Syscal Pro Switch-48 manufactured by Iris Instruments.
+ERT and time-domain induced polarization (TDIP) data was collected with a Syscal Pro Switch-48 manufactured by Iris Instruments. Note that TDIP data was not processed and analysed in the above manuscript. Here, we include it for the sake of completeness.
 
 | Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation |
 | --- | --- | --- | --- | --- |
@@ -23,5 +23,10 @@ Positions (datum: WGS84) of the first and the last electrodes of each ERT line a
 
 None of the lines includes significant topographical variations.
 
+## Financial support
+
+We gratefully acknowledge financial support for the presented case studies provided by the UNAM (DGAPA-PAPIIT-IN107416-2:  Pa-leoambientes  del  Pleistoceno  tardío  en  la  cuenca  de  Xochimilco").  Matthias  Bücker’s  participation in this study was partly funded by a scholarship  awarded  by  the  TU-Wien.
+
 ## Acknowledgements
 
+We  thank  Sergio Rodríguez Elizarrarás from the Instituto de Geología  (IGL)  of   the  UNAM,  who  kindly  provided  the  Syscal  Pro  Switch  measuring  system.  Special  thanks  to  Elena  Centeno  (IGL)  and  the  staff from Instituto de Geología and Instituto de Geofísica,  UNAM  for  their  support. Rafael Cossío assisted during the geoelectrical field work in Xochimilco. We acknowledge the personnel of the  Viveros de Netzahualcóyotl in Xochimilco without whose cooperation the realization of the field survey would not have been possible.
