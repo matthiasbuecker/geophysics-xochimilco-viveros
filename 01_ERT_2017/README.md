@@ -1,4 +1,4 @@
-# Electrical resistivity tomography (ERT) measurements 2017
+# Electrical resistivity tomography (ERT) measurements 2016
 
 This directory contains the electrical resistivity tomography (ERT) raw data analysed and presented in the first case study (section *3.1. Case I: Shallow explortion at Lake Xochimilco*) of the manuscript
 
