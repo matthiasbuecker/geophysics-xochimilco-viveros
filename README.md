@@ -5,6 +5,8 @@
 
 ###### <sup>1</sup>TU Braunschweig, Institut für Geophysik und extraterrestrische Physik, Braunschweig, Germany; <sup>2</sup>TU-Wien, Department für Geodäsie und Geoinformation, Forschungsgruppe Geophysik, Wien, Austria; <sup>3</sup>Universidad Nacional Autónoma de México, Instituto de Geofísica, Mexico City, Mexico; <sup>4</sup>Universidad Nacional Autónoma de México, Facultad de Ingeniería, Mexico City, Mexico; <sup>5</sup>Geotem Ingeniería S.A. de C.V., Mexico City, Mexico.
 
+----
+
 This repository contains geophysical raw data collected during two field campaigns in 2016 and 2018 at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8), Mexico City, Mexico.
 
 The data set includes the raw data (01_ERT206) analysed for the second case study of the manuscript
