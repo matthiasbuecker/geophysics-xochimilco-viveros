@@ -2,25 +2,9 @@
 
 This directory contains the transient electromagnetic (TEM) raw data collected at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8) during September 2017. The following table lists the available TEM lines, which are grouped into a shallow survey (XOC1-9) and a deep survey (VIV1-2).
 
-| Line ID | Acquisition date | Electrodes (spacing) | Total length | Orientation | Remark |
-| --- | --- | --- | --- | --- | --- |
-| L1 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | Drilling XOC17-I @ 105 m along line |
-| L2 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L3 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L4 | 09/05/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L5 | 09/06/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L6 | 09/07/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L7 | 09/07/2017 | 48 (3 m) | 141 m | NW > SE | |
-| L8 | 09/06/2017 | 41 (5 m) | 200 m | SW > NE | |
-| L9 | 09/06/2017 | 40 (5 m) | 195 m | SW > NE | |
-| L10 | 09/06/2017 | 41 (5 m) | 200 m | SW > NE | |
-| Y1 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 1st part of roll along |
-| Y2 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 2nd part of roll along |
-| Y3 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 3rd part of roll along |
-| Y4 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 1st part of roll along |
-| Y5 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 2nd part of roll along |
-| Y6 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 3rd part of roll along |
-| Y7 | 09/11/2017 | 48 (10 m) | 470 m | NW > SE | 4rd part of roll along |
+| Souding ID | Acquisition date | Loop size | Remark |
+| --- | --- | --- | --- |
+| XOC1-XOC7 | 09/05/2017 | 50 m x 50 m | |
 
 Lines L1-L10 were measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-Dipole (PD) configuration, 
 
