@@ -3,7 +3,7 @@
 This directory contains the transient electromagnetic (TEM) raw data collected at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8) during September 2017. The following table lists the available TEM soundings with different sizes of the square loop.
 
 | Souding ID | Acquisition date | Loop size |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | XOC1-4 | 09/05/2017 | 150 m x 150 m |
 | XOC5-9 | 09/05/2017 | 50 m x 50 m |
 | VIV1-2 | 09/05/2017 | 300 m x 300 m |
