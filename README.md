@@ -1,4 +1,3 @@
-## UNDER CONSTRUCTION
 ## Data set | Geoelectrical and transient electromagnetic surveys at Viveros de Netzahualcóyotl in Xochimilco, Mexico City, Mexico
 
 #### Matthias Bücker<sup>1,2</sup>, Beatriz Ortega-Guerrero<sup>3</sup>, Yosely Gómez Peña<sup>3,4</sup>, Luis Antonio Placencia Gómez<sup>4</sup>, Carlos Pita de la Paz<sup>5</sup>, and Adrián Flores Orozco<sup>2</sup>
