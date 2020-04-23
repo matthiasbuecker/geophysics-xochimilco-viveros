@@ -16,8 +16,6 @@ The data of the 2017 field campaign is being analysed by Yoselyn Gómez Peña in
 
 If you find our data useful in your own research, please mention this data set, the manuscript and/or the thesis.
 
-![](images/Overview.png)
-
 ## Overview
 
 The following table and the map summarize the measurements and data provided in this repository. Individual data sets and more detailed information can be found in the corresponding subfolders.
