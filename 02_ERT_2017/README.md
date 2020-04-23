@@ -26,7 +26,7 @@ Lines L1-L10 were measured with a Dipole-Dipole (DD), a Wenner (We) and a Pole-D
 
 Line Y1-Y7 were measured with a DD and a We configuration. Lines Y1-Y3 and Y4-Y7 were carried out as roll-along profiles, respectively, with overlaps of 24 electrodes.
 
-Data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing). Here, we also include the exported *.txt* files.
+Data is provided as binary files *.bin*, which can be read, processed and exported to *.txt* files with the Prosys II software available free of charge on the homepage of the manufacturer of the measuring device (http://www.iris-instruments.com/download.html#processing).
 
 Please note that for practical reasons, the electrode spacing was set to 1 m during the acquisition. Thus, during the processing, geometric factors (and apparent resistivities) need to be recomputed employing the actual electrode spacings given in the above table.
 
