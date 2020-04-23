@@ -1,7 +1,13 @@
 ## UNDER CONSTRUCTION
 ## Data set | Geoelectrical and transient electromagnetic surveys at Viveros de Netzahualcóyotl in Xochimilco, Mexico City, Mexico
 
-**Matthias Bücker<sup>1</sup>, Beatriz Ortega-Guerrero, Yosely Gómez Peña, Luis Antonio Placencia Gómez, Carlos Pita de la Paz, and Adrián Flores Orozco**
+**Matthias Bücker<sup>1,2,3</sup>, Beatriz Ortega-Guerrero, Yosely Gómez Peña, Luis Antonio Placencia Gómez, Carlos Pita de la Paz, and Adrián Flores Orozco**
+
+<sup>1</sup>Fachbereich Geophysik, Steinmann-Institut, Universität Bonn, Bonn, Germany.
+<sup>2</sup>Forschungsgruppe Geophysik, Department für Geodäsie und Geoinformation, TU-Wien, Wien, Austria.
+<sup>3</sup>Institut für Geophysik und extraterrestrische Physik, TU Braunschweig, Braunschweig, Germany.
+
+
 
 This repository contains geophysical raw data collected during two field campaigns in 2016 and 2018 at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8), Mexico City, Mexico. 
 
