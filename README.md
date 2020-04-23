@@ -3,9 +3,7 @@
 
 #### Matthias Bücker<sup>1,2</sup>, Beatriz Ortega-Guerrero<sup>3</sup>, Yosely Gómez Peña<sup>3,4</sup>, Luis Antonio Placencia Gómez<sup>4</sup>, Carlos Pita de la Paz<sup>5</sup>, and Adrián Flores Orozco<sup>2</sup>
 
-###### <sup>1</sup>TU Braunschweig, Institut für Geophysik und extraterrestrische Physik, Braunschweig, Germany.<br/>
-<sup>2</sup>TU-Wien, Department für Geodäsie und Geoinformation, Forschungsgruppe Geophysik, Wien, Austria.
-###### <sup>3</sup>Universidad Nacional Autónoma de México, Instituto de Geofísica, Mexico City, Mexico.
+###### <sup>1</sup>TU Braunschweig, Institut für Geophysik und extraterrestrische Physik, Braunschweig, Germany; <sup>2</sup>TU-Wien, Department für Geodäsie und Geoinformation, Forschungsgruppe Geophysik, Wien, Austria; <sup>3</sup>Universidad Nacional Autónoma de México, Instituto de Geofísica, Mexico City, Mexico.
 ###### <sup>4</sup>Universidad Nacional Autónoma de México, Facultad de Ingeniería, Mexico City, Mexico.
 ###### <sup>5</sup>Geotem Ingeniería S.A. de C.V., Mexico City, Mexico.
 
