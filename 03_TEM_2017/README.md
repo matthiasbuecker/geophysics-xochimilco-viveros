@@ -13,7 +13,7 @@ All soundings were collected with a terraTEM manufactured by Monex GeoScope usin
 
 Data is provided as binary files *.bin* (terraTEM proprietary format) and universal sounding format (*.usf*) files (ASCII). Both *.bin* and *.usf* files may contain several repetitions at one sounding site (runs).
 
-The exact positions (datum: WGS84) of the four vertices of each square loop sounding are listed in the file *TEM2017.txt*. For convenience, we also include a GoogleEarth *.kml* file containing loop polygons and their centres.
+The exact positions (datum: WGS84) of the four vertices of each square loop sounding are listed in the file *TEM2017.txt*. For convenience, we also include a GoogleEarth *.kml* file containing loop polygons and their respective centres.
 
 ## Financial support
 
