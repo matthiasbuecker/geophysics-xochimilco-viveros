@@ -26,7 +26,7 @@ The following table and the map summarize the measurements and data provided in 
 | 02_ERT_2017 | Electrical resistivity tomography (ERT) | 09/2018  | 12 lines |
 | 03_TEM_2017 | Transient electromangetics (TEM) | 09/2017 | 13 soundings |
 
-![Philadelphia's Magic Gardens. This place was so cool!](./Overview.jpg "Philadelphia's Magic Gardens")
+![Picture](/Overview.png "Philadelphia's Magic Gardens")
 
 ## License information
 © 2016-2020 the authors.
