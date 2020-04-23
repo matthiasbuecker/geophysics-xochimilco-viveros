@@ -16,6 +16,8 @@ The data of the 2017 field campaign is being analysed by Yoselyn Gómez Peña in
 
 If you find our data useful in your own research, please mention this data set, the manuscript and/or the thesis.
 
+![](images/Overview.png)
+
 ## Overview
 
 The following table and the map summarize the measurements and data provided in this repository. Individual data sets and more detailed information can be found in the corresponding subfolders.
@@ -25,8 +27,6 @@ The following table and the map summarize the measurements and data provided in 
 | 01_ERT_2016 | Electrical resistivity tomography (ERT) | 04/2016  | 2 lines |
 | 02_ERT_2017 | Electrical resistivity tomography (ERT) | 09/2018  | 12 lines |
 | 03_TEM_2017 | Transient electromangetics (TEM) | 09/2017 | 13 soundings |
-
-![](/images/Overview.png)
 
 ## License information
 © 2016-2020 the authors.
