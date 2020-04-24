@@ -17,7 +17,7 @@ The exact positions (datum: WGS84) of the four vertices of each square loop soun
 
 ## Financial support
 
-Financial support for the data acquisition was provided by the UNAM (DGAPA-PAPIIT-IN107416-2: "Paleoambientes del Pleistoceno tardío en la cuenca de Xochimilco"). Matthias Bücker’s participation in this study was partly funded by a scholarship awarded  by the TU-Wien.
+Financial support for the data acquisition was provided by the UNAM (DGAPA-PAPIIT-IN107416 and IN105918). Matthias Bücker’s participation in this study was partly funded by a scholarship awarded  by the TU-Wien.
 
 ## Acknowledgements
 
