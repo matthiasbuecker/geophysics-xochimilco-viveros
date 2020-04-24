@@ -6,6 +6,8 @@
 
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3765209.svg)](https://doi.org/10.5281/zenodo.3765209)
+
 This repository contains geophysical raw data collected during two field campaigns in 2016 and 2018 at [Viveros de Netzahualcóyotl in Xochimilco](https://goo.gl/maps/K7xEC44MdnQno9CG8), Mexico City, Mexico.
 
 The data set includes the raw data (01_ERT206) analysed for the first case study of the manuscript
