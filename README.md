@@ -23,7 +23,7 @@ The following table and the map summarize the measurements and data provided in 
 | Directory | Method | Month/Year of acquisition | Quantity |
 | --- | --- | --- | --- |
 | 01_ERT_2016 | Electrical resistivity tomography (ERT) | 04/2016  | 2 lines |
-| 02_ERT_2017 | Electrical resistivity tomography (ERT) | 09/2018  | 12 lines |
+| 02_ERT_2017 | Electrical resistivity tomography (ERT) | 09/2017  | 12 lines |
 | 03_TEM_2017 | Transient electromangetics (TEM) | 09/2017 | 13 soundings |
 
 ## License information
